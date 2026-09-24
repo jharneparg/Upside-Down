@@ -4,7 +4,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Upside-Down",
 		"replaces": "Warrior",
-		"movement": 2,
+		"movement": 3,
 		"strength": 8,
 		"cost": 20,
         "obsoleteTech": "Metal Casting",
